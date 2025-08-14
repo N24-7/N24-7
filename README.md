@@ -68,7 +68,7 @@ Here are the tools, frameworks, and languages I work with:
 
 Feel free to reach out, collaborate, or just talk AI!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-mittal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-mittal-88b41a243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naman.23bcon1232@jecrcu.edu.in)
 
 ---
