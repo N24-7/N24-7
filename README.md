@@ -36,24 +36,24 @@ Here are the tools, frameworks, and languages I work with:
 | 🛡️ **Safe Zones** | Grid-based environment with AI navigation | Pathfinding, Agent Perception |
 | 🎮 **Mini Games (Tkinter/Pygame)** | Small games integrated with AI behaviors | Rule-based & learning agents |
 
-👉 Explore more in the [Projects](https://github.com/YANSHdiv?tab=repositories) tab!
+👉 Explore more in the [Projects](https://github.com/N24-7?tab=repositories) tab!
 
 ---
 
 ## 🌱 Currently Learning
 
-- 📚 **Reinforcement Learning**: Q-learning, SARSA, & epsilon-greedy strategies
-- 🧠 **Agent Architectures**: Reflex, goal-based, utility-based agents
-- 🎲 **Game Theory** in multi-agent environments
-- 🌐 Exploring **OpenAI tools**, Gym environments, and simulation building
+- 📚 **Reinforcement Learning**: Q-learning, SARSA, & epsilon-greedy strategies  
+- 🧠 **Agent Architectures**: Reflex, goal-based, utility-based agents  
+- 🎲 **Game Theory** in multi-agent environments  
+- 🌐 Exploring **OpenAI tools**, Gym environments, and simulation building  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YANSHdiv&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YANSHdiv&layout=compact&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=N24-7&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N24-7&layout=compact&theme=tokyonight" width="48%">
 </p>
 
 ---
